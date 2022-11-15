@@ -24,10 +24,7 @@ public class Explode : MonoBehaviour
             OnExplode();
         }
     }
-
-   
-
-
+    
     void OnExplode()
     {
         var t = transform;
